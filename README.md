@@ -6,6 +6,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -16,6 +17,10 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ![index](https://user-images.githubusercontent.com/88755473/134827555-bd09f7ce-417d-4a48-8626-9438b3013411.png) 
 ![gif (3)](https://user-images.githubusercontent.com/88755473/134831418-7675fa44-1f6e-4cdf-8bb4-758ed744294d.gif)
+
+### Links
+
+- Live Site URL: [3-Column-Preview-Card URL](https://gabmotamelo.github.io/Frontend-Mentor---3-column-preview-card-component-solution/)
 
 ## My process
 
